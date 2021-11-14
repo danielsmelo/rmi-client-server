@@ -1,6 +1,6 @@
 ## INSTRUÇÕES PARA EXECUÇÃO
 
- -- Todas operações precisam ser feitas dentro dos containers.
+ Todas operações precisam ser feitas dentro dos containers.
 
 1. Certifique se a conexão entre as máquinas cliente e servidor está livre. Para isso, teste o ping sobre as duas perspectivas (ping cliente para servidor e depois servidor para cliente).
 
